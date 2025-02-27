@@ -1,0 +1,33 @@
+
+
+h1{
+    color: rgb(98, 0, 244);
+}
+h2{
+    color: cornflowerblue;
+
+}
+h3{
+    color: hsl(0, 100%, 50%);
+}
+h5{
+    color: #1a1083;
+}
+
+.emoji-scale {
+    display: inline-block;
+    font-size: 50px;
+    transform: scale(2); 
+}
+
+.gif-fundo {
+    width: 700px;
+    height: 1000px;
+    background-image: url('img/WhatsApp\ Image\ 2025-02-27\ at\ 2.32.51\ PM.jpeg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+
+
+
